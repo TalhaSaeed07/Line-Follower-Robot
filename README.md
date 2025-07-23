@@ -27,7 +27,7 @@ The robot uses multiple IR sensors to read the position of the line and calculat
 
 
 
-Tech Stack / Tools
+Tech Stack / Tools:
 
 
 Arduino IDE
@@ -44,7 +44,7 @@ Battery Pack
 
 
 
-PID Tuning Tips
+PID Tuning Tips:
 
 
 Start with Ki = 0, Kd = 0, and increase Kp until it starts oscillating.
