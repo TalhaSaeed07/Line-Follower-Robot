@@ -1,6 +1,6 @@
 PID Line Follower Robot 
 
-This is a simple yet efficient line-following robot built using embedded C on Arduino (or any other microcontroller used). It uses a PID (Proportional–Integral–Derivative) control algorithm to follow a black line on a white surface with smooth and stable motion.
+This is a simple yet efficient line-following robot built using embedded C on Arduino. It uses a PID (Proportional–Integral–Derivative) control algorithm to follow a black line on a white surface with smooth and stable motion.
 
 Project Features
 
@@ -8,7 +8,7 @@ PID Control Algorithm for smooth line tracking
 
 IR Sensors to detect the line path
 
-DC Motors with motor driver (e.g., L298N) for movement
+DC Motors with motor driver (L298N) for movement
 
 Adjustable PID Constants (Kp, Ki, Kd) for tuning performance
 
